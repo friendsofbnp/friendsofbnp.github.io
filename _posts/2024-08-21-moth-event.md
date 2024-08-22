@@ -8,8 +8,16 @@ categories: integration
 tags: [citizen science, event]
 ---
 
-At 8 PM on Saturday, August 24 at the Moyer Nature Center, there will be a moth collection event.
+**What:** Luring and identifying moths
 
-Moths will be attracted to a light and sugar water. We will identify them and submit to iNaturalist.
+**How:** Light and sugar traps
 
-No registration is necessary.
+**Where:** Moyer Nature Center
+
+**When:** Saturday, August 24th from 9:00 PM to 12:00 midnight**
+
+**Who:** Everyone is welcome
+
+**Why:** For fun! (and to measure biological diversity)
+
+For more information, [contact Dr. Jacob Buchanan](mailto:buchananj@bluffton.edu), Bluffton University.
