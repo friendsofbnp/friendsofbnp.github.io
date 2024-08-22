@@ -8,6 +8,10 @@ categories: integration
 tags: [citizen science, event]
 ---
 
+Evening moth viewing event, Saturday, Auguse 24.
+
+<!--more-->
+
 **What:** Luring and identifying moths
 
 **How:** Light and sugar traps
