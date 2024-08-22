@@ -8,7 +8,7 @@ categories: integration
 tags: [citizen science, event]
 ---
 
-Evening moth viewing event, Saturday, Auguse 24.
+Evening moth viewing event, Saturday, August 24.
 
 <!--more-->
 
