@@ -11,8 +11,8 @@ menu:
     submenu:
       - name: eBird
         link: /projects/ebird
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: iNaturalist
+        link: /projects/inaturalist
   - name: Posts
     link: /
   - name: Tags

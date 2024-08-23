@@ -18,7 +18,7 @@ View and identify moths at this evening event.
 
 **Where:** Moyer Nature Center
 
-**When:** Saturday, August 24th from 9:00 PM to 12:00 midnight**
+**When:** Saturday, August 24th from 9:00 PM to 12:00 midnight
 
 **Who:** Everyone is welcome
 
