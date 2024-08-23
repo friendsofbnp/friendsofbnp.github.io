@@ -9,8 +9,8 @@ google-ID: ''
 menu: 
   - name: Featured Projects
     submenu:
-      - name: MicroBam
-        link: /projects/microbam
+      - name: eBird
+        link: /projects/ebird
       - name: OurLegacy
         link: /projects/ourlegacy
   - name: Posts
