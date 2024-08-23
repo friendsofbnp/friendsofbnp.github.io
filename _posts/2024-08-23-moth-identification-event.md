@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Moth identification event"
-date:   2024-08-24 21:00:00 -0400
-published: 2024-08-23 09:00:00 -0400
+date:  2024-08-23 09:00:00 -0400
+published: 2024-08-24 21:00:00 -0400
 comments: true
 categories: integration
 tags: [citizen science, event]
