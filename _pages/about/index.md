@@ -10,7 +10,7 @@ The Friends of the Bluffton Nature Preserve is an informal community group of pe
 
 # What we do
 
-At the present time, the main purpose of the group is to provide communications for upcoming events happening at the preserve through posts on this website and notifications through the [email list](https://groups.google.com/g/friendsofbnp/about). In the future, the group may sponsor informal walks through the preserve. 
+At the present time, the main purpose of the group is to provide communications for upcoming events happening at the preserve through posts on this website and notifications through the [email list](https://groups.google.com/g/friendsofbnp/). In the future, the group may sponsor informal walks through the preserve. 
 
 # About the Nature Preserve
 
@@ -22,7 +22,7 @@ For more information about the preserve, visit the [Bluffton University website]
 
 # Contact
 
-To join the email list for Friends of the Bluffton Nature Preserve, and receive periodic updates on projects and upcoming events visit the [Google Group page](https://groups.google.com/g/friendsofbnp/about) and click the `Contact owners and managers` button to ask to join.
+To join the email list for Friends of the Bluffton Nature Preserve and receive periodic updates on projects and upcoming events, visit the [Google Group page](https://groups.google.com/g/friendsofbnp/). If you are signed into a Google Account, you can join the group by clicking on the "Join group" button at the top of the page. If you don't have a Google Account, please contact [steve.baskauf@gmail.com](mailto:steve.baskauf@gmail.com) to request to be added to the group.
 
 For more information about the Nature Preserve, contact the the preserve director, Jacob Buchanan, at [buchananj@bluffton.edu](mailto:buchananj@bluffton.edu). 
 
