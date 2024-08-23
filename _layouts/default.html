@@ -7,7 +7,7 @@
 
 	{% if page.id %}
 	<p>
-		<strong>{{ page.published | date: '%B %d, %Y' }}</strong> ( Date : {{ page.date | date: '%B %d, %Y' }} )
+		<strong>Event date: {{ page.published | date: '%B %d, %Y' }}</strong>
 		<br>
 		{% for tag in page.tags %}
 			<a class="label label-default" href="/tags/#{{ tag | slugify }}">{{ tag }}</a>
@@ -28,8 +28,8 @@
 
 
 	{% if page.id %}
-	<p>Published {{ page.published | date: '%B %d, %Y' }}
-    <br> Date {{ page.date | date: '%B %d, %Y' }}</p>
+	<p>Event date {{ page.published | date: '%B %d, %Y' }}
+    <br> Date posted {{ page.date | date: '%B %d, %Y' }}</p>
 
     <p><strong>Related posts :</strong></p>
         <ul>
