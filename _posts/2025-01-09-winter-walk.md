@@ -16,7 +16,9 @@ Join this walk to learn about plants and animals during the winter months. NOTE:
 
 Come walk with Dr. Jacob Buchanan to learn about plants and animals during the winter months.
 
-Students in attendance will earn **Arts & Lecture credit**.
+We'll walk around the trails and look for evidence of wildlife (tracks, burrows, sounds, scat) and identify some trees by twigs, buds, bark, and fallen leaves. 
+
+The event is open to all. Students in attendance will earn **Arts & Lecture credit**.
 
 # Location
 
