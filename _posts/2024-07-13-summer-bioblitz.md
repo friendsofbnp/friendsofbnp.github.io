@@ -12,13 +12,13 @@ A bioblitz is an opportunity for citizen scientists to help document the biodive
 
 <!--more-->
 
-# What to bring
+### What to bring
 
 - Comfortable outdoor clothing and footwear
 - Field guides and identification tools (if available)
 - Enthusiasm for nature and biodiversity!
 
-# Event schedule
+### Event schedule
 
 9:00 - 10:30 AM: Riek Center for Habitat Studies, 17311 TR 166, Mt. Blanchard, OK
 

@@ -12,7 +12,7 @@ Join this walk to learn about plants and animals during the winter months. NOTE:
 
 <!--more-->
 
-# Description
+### Description
 
 Come walk with Dr. Jacob Buchanan to learn about plants and animals during the winter months.
 
@@ -20,11 +20,11 @@ We'll walk around the trails and look for evidence of wildlife (tracks, burrows,
 
 The event is open to all. Students in attendance will earn **Arts & Lecture credit**.
 
-# Location
+### Location
 
 Meet in the Moyer Nature Center within the Bluffton University Nature Preserve on Augsburger Road.
 
-# Dates and times
+### Dates and times
 
 Tuesday, 28 January 2025 from 2:00 to 3:00 PM.
 
