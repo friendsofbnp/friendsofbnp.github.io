@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Spring Wildflower Nature Walk"
-date:   2025-01-31 10:00:00 -0500
-published: 2025-03-01 11:00:00 -0500
+date:   2025-03-01 10:00:00 -0500
+published: 2025-03-18 11:00:00 -0500
 comments: true
 categories: integration
 tags: [education, event]
