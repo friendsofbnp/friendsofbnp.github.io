@@ -8,7 +8,7 @@ categories: integration
 tags: [citizen science, education, event]
 ---
 
-Observe and collect data on moths. NOTE: offered on multiple dates. 
+Observe and collect data on moths.
 
 <!--more-->
 
