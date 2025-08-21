@@ -2,7 +2,7 @@
 layout: default
 title:  "Moth Survey"
 date:   2025-06-05 13:15:00 -0400
-published: 2025-05-29 18:00:00 -0400
+published: 2025-08-23 21:00:00 -0400
 comments: true
 categories: integration
 tags: [citizen science, education, event]
