@@ -16,6 +16,8 @@ Community service event.
 
 Join Dr. Buchanan and Bluffton University students in planting tree saplings in a Bluffton resident's yard. We will plant 280 saplings over 1 acre of land. The planting will be on Thurs, Apr 9 at 5:30-7:30 pm. We are keeping a backup date in case of poor weather on Sun, Apr 12 at 10:00 am - 12:00 pm. Students will earn Arts and Lecture credit for fifty minutes of work. Shovels, trowels, and work gloves will be available to borrow, but you are welcome to bring your own. Pizza and water will be provided.
 
+Please RSVP by emailing Dr. Buchanan: buchananj@bluffton.edu
+
 ### Location
 
 9783 N Dixie Hwy, Bluffton, OH 45817.
