@@ -5,7 +5,7 @@ date:   2026-06-10 20:00:00 -0400
 published: 2026-06-12 08:00:00 -0400
 comments: true
 categories: integration
-tags: [education, event]
+tags: [service, event]
 ---
 
 The Friends of the Bluffton Nature Preserve will remove invasive plants at 8 AM on the second and fourth Fridays. 
