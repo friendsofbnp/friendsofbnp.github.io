@@ -26,7 +26,15 @@ Meet at the Moyer Nature Center in the Preserve.
 
 ### Dates and times
 
-Second and fourth Fridays at 8:00 AM starting June 12 and continuing throughout the summer months and perhaps into the fall.
+Second and fourth Fridays at 8:00 - 10:00 AM through the summer months and perhaps into the fall.
+
+- Friday June 12
+- Friday June 26
+- Friday July 10
+- Friday July 24
+- Friday August 14
+
+Further dates TBD
 
 -------------
 
