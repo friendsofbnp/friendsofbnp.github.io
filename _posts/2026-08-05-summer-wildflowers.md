@@ -2,7 +2,7 @@
 layout: default
 title:  "Summer Wildflowers Nature Walks"
 date:   2026-06-28 14:30:00 -0400
-published: 2026-07-06 08:00:00 -0400
+published: 2026-08-05 18:30:00 -0400
 comments: true
 categories: integration
 tags: [event]
