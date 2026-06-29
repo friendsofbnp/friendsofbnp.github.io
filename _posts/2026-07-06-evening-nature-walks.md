@@ -12,7 +12,7 @@ Join Dr. Buchanan for evening nature walks around the preserve.
 
 <!--more-->
 
-### Description - Evening Nature Walks
+### Description
 
 Join Dr. Jacob Buchanan to lear about dusk- and night-active wildlife. Expect to see fireflies, moths, bats, rabbits, deer, and more. You are welcome to bring a flashlight or headlamp.
 

@@ -12,7 +12,7 @@ Join Dr. Buchanan for walks around the preserve to observe summer wildflowers.
 
 <!--more-->
 
-### Description - Evening Nature Walks
+### Description
 
 Walk with Dr. Jacob Buchanan in observing and identifying the variety of summer wildflowers in the preserve. Learn more about native plants and the insects and wildlife that they support.
 
