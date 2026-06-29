@@ -22,9 +22,9 @@ Meet at the Moyer Nature Center in the Preserve.
 
 ### Dates and times
 
-Wednesday, August 5 at 6:30-7:30 pm
-Friday, August 7 at 6:30-7:30 pm
-Saturday, August 8 at 10:00-11:00 am
+- Wednesday, August 5 at 6:30-7:30 pm
+- Friday, August 7 at 6:30-7:30 pm
+- Saturday, August 8 at 10:00-11:00 am
 
 -------------
 
