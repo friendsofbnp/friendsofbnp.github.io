@@ -19,6 +19,8 @@ menu:
     link: /tags
   - name: About
     link: /about
+  - name: Historical
+    link: /historical
   - name: Connect
     submenu:
       - name: Google Group (email list)
