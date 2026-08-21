@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Invasive plants removal"
-date:   2026-06-10 20:00:00 -0400
-published: 2026-06-12 08:00:00 -0400
+date:   2026-08-21 20:00:00 -0400
+published: 2026-08-28 08:00:00 -0400
 comments: true
 categories: integration
 tags: [service, event]
@@ -28,11 +28,6 @@ Meet at the Moyer Nature Center in the Preserve.
 
 Second and fourth Fridays at 8:00 - 10:00 AM through the summer months.
 
-- Friday June 12
-- Friday June 26
-- Friday July 10
-- Friday July 24
-- Friday August 14
 - Friday August 28
 - Friday September 11
 - Friday September 25
