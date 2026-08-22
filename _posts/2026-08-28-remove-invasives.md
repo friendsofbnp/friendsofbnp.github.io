@@ -2,7 +2,7 @@
 layout: default
 title:  "Invasive plants removal"
 date:   2026-08-21 20:00:00 -0400
-published: 2026-08-28 08:00:00 -0400
+published: 2026-07-07 08:00:00 -0400
 comments: true
 categories: integration
 tags: [service, event]
