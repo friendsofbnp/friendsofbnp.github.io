@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Family Day Nature Walk"
-date:   2026-07-22 09:49:00 -0400
+date:   2026-08-22 09:49:00 -0400
 published: 2026-09-09 15:00:00 -0400
 comments: true
 categories: integration
