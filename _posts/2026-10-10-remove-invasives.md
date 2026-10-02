@@ -1,20 +1,20 @@
 ---
 layout: default
 title:  "Invasive plants removal"
-date:   2026-07-07 20:00:00 -0400
-published: 2026-08-28 08:00:00 -0400
+date:   2026-10-02 13:00:00 -0400
+published: 2026-10-10 08:00:00 -0400
 comments: true
 categories: integration
 tags: [service, event]
 ---
 
-The Friends of the Bluffton Nature Preserve will remove invasive plants at 8 AM on the second and fourth Fridays. 
+The Friends of the Bluffton Nature Preserve will remove invasive plants at 8 AM every other Saturday during the fall. 
 
 <!--more-->
 
 ### Description
 
-The Friends group is beginning its first ongoing service project: biweekly events to remove invasive plants in the Nature Preserve. People who want to participate can come at 8:00 AM to remove invasive shrubs such as bush honeysuckle, privet, autumn olive, and multiflora rose. At appropriate times of the year, we may also remove herbaceous plants such as garlic mustard, teasel, and dame's rocket. 
+The Friends group is continuing its ongoing service project: scheduled events to remove invasive plants in the Nature Preserve. People who want to participate can come at 8:00 AM to remove invasive shrubs such as bush honeysuckle, privet, autumn olive, and multiflora rose. At appropriate times of the year, we may also remove herbaceous plants such as garlic mustard, teasel, and dame's rocket. 
 
 Tools for removing shrubs will be available and no experience is necessary. Experienced participants can help newcomers recognize the target plants and demonstrate how to use appropriate tools to remove plants of various sizes. 
 
@@ -26,13 +26,14 @@ Meet at the Moyer Nature Center in the Preserve.
 
 ### Dates and times
 
-Second and fourth Fridays at 8:00 - 10:00 AM through the summer months.
+Every other Saturday as listed below from 8:00 to 10:00 AM.
 
-- Friday August 28
-- Friday September 11
-- Friday September 25
+- Saturday October 10
+- Saturday October 24
+- Saturday November 7
+- Saturday November 21
 
-We will be scheduling more removals in October and November based on the results of a scheduling poll.
+More removals will take place in the spring.
 
 -------------
 
